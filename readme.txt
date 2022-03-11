@@ -5,3 +5,5 @@ Mô tả bài tập:
 - Footer
 - Có responsive
 - Form nhập thông tin đăng kí khi click vào Register
+
+** Chạy file index.html ***
